@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-express-tutorial",
+  "version": "1.0.0",
+  "description": "A quick tutorial on using Express.js",
+  "main": "index.js",
+  "scripts": {
+    "test1": "node index1.js",
+    "test2": "node index2.js",
+    "test3": "node index3.js",
+    "test4": "node index4.js",
+    "test5": "node index5.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iceman198/nodejs-express-tutorial.git"
+  },
+  "author": "Sean Dutton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iceman198/nodejs-express-tutorial/issues"
+  },
+  "homepage": "https://github.com/iceman198/nodejs-express-tutorial#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
